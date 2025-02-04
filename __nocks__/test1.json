@@ -1,0 +1,22 @@
+[
+    {
+        "scope": "https://api.descript.com:443",
+        "method": "GET",
+        "path": "/",
+        "body": "",
+        "status": 200,
+        "response": "ok",
+        "rawHeaders": {
+            "accept-ranges": "bytes",
+            "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+            "cache-control": "no-cache",
+            "content-length": "2",
+            "content-type": "text/html; charset=utf-8",
+            "date": "Tue, 04 Feb 2025 01:02:17 GMT",
+            "vary": "origin",
+            "via": "1.1 google",
+            "x-request-id": "68df256cc932f860"
+        },
+        "responseIsBinary": false
+    }
+]

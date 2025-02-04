@@ -1,0 +1,16 @@
+{
+  "name": "nock-back-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-update": "NOCK_BACK_MODE=update jest --updateSnapshot"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nock": "^14.0.0"
+  }
+}
